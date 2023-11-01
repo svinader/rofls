@@ -1,1 +1,8 @@
-hi bro
+atpakaļskatīšanas taimeris
+
+litotne jābut iespēja ierakstīt laiku, izmantojot taimeri
+jābut spēja izvēlēties nepieciešamo laiku, lieli pulksteni uz ekrana
+kaut kads laiks, piemeram 5 minutes un to var mainit
+skan kaut kada skaņa kad laiks beigsies
+sakuma 5:00 - kad notiek 0:00  skan skaņā un taimeris apstajas
+parasti pulksteni ekranā ar iespeju izveleties nepieciečamo laiku
